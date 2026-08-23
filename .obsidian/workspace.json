@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Unbenannt.base",
+                "file": "Unbenannt 1.base",
                 "viewName": "Tabelle"
               },
               "icon": "lucide-table",
-              "title": "Unbenannt"
+              "title": "Unbenannt 1"
             }
           }
         ]
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unbenannt.base",
+                "file": "Unbenannt 1.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unbenannt.base",
+                "file": "Unbenannt 1.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unbenannt.base",
+                "file": "Unbenannt 1.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -187,8 +187,9 @@
   },
   "active": "f20c40bb1e5ddd49",
   "lastOpenFiles": [
-    "GM/sessions/session 1.md",
     "Unbenannt.base",
+    "Unbenannt 1.base",
+    "GM/sessions/session 1.md",
     "GM/threats/homefront/Die alte Schmiedin.md",
     "GM/threats/nearby/Der Graue Verfall.md",
     "GM/threats/homefront/Wolf macht ärger.md",
