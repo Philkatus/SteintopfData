@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Unbenannt 1.base",
+                "file": "Unbenannt.base",
                 "viewName": "Tabelle"
               },
               "icon": "lucide-table",
-              "title": "Unbenannt 1"
+              "title": "Unbenannt"
             }
           }
         ]
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unbenannt 1.base",
+                "file": "Unbenannt.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unbenannt 1.base",
+                "file": "Unbenannt.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unbenannt 1.base",
+                "file": "Unbenannt.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -187,8 +187,8 @@
   },
   "active": "f20c40bb1e5ddd49",
   "lastOpenFiles": [
-    "Unbenannt.base",
     "Unbenannt 1.base",
+    "Unbenannt.base",
     "GM/sessions/session 1.md",
     "GM/threats/homefront/Die alte Schmiedin.md",
     "GM/threats/nearby/Der Graue Verfall.md",
