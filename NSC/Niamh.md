@@ -13,6 +13,6 @@ unbekannt
 
 ## **Familie:**
 Eheeman + 5 Kinder
-
+[[Lila]] Bruder
 
 ## **wichtige Ereignisse:**
