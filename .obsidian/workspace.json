@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "b4c82d720e2c2490",
+    "type": "split",
+    "children": [
+      {
+        "id": "00e2160ae735e62d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f20c40bb1e5ddd49",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Unbenannt.base",
+                "viewName": "Tabelle"
+              },
+              "icon": "lucide-table",
+              "title": "Unbenannt"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8a19d82c003258a",
+    "type": "split",
+    "children": [
+      {
+        "id": "876e1ea222efdc52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5b98018a1e76a04",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "9fed38d4f11aa9ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "1b51b81e090c0f76",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "863b07884767cdd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d68f932c24424fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6204008e8b55185d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unbenannt.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise"
+            }
+          },
+          {
+            "id": "c53f11be90ed0cbc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unbenannt.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links"
+            }
+          },
+          {
+            "id": "710e192784a2a51d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2beca392ea2a1b41",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unbenannt.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung"
+            }
+          },
+          {
+            "id": "cd1693cd8978e0a1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f20c40bb1e5ddd49",
+  "lastOpenFiles": [
+    "GM/sessions/session 1.md",
+    "Unbenannt.base",
+    "GM/threats/homefront/Die alte Schmiedin.md",
+    "GM/threats/nearby/Der Graue Verfall.md",
+    "GM/threats/homefront/Wolf macht ärger.md",
+    "GM/threats/homefront/Jorin der waghalsige.md",
+    "Orte/Stonetop.md",
+    "NSC/stonetop/Jorin.md",
+    "NSC/stonetop/Wolf.md",
+    "NSC/stonetop/Talisyn.md",
+    "NSC/Marshedge",
+    "NSC/Marshedge/Róisín.md",
+    "NSC/Niamh.md",
+    "Orte/Marshedge.md",
+    "NSC/stonetop/Meinir.md",
+    "NSC/stonetop",
+    "GM/love letter/LL-Lila.md",
+    "GM/love letter/LL-Rhys.md",
+    "GM/love letter",
+    "GM/sessions",
+    "NSC/stonetop/Alis.md",
+    "NSC/Marshedge/Vaahid.md",
+    "NSC/stonetop/Teagan.md",
+    "Templates/Threat.md",
+    "GM/threats/far away",
+    "GM/threats/nearby",
+    "GM/threats/homefront",
+    "GM/threats",
+    "Landschaften/Ferrier’s Fen.md",
+    "GM",
+    "NSC/stonetop/Ifur.md",
+    "NSC/stonetop/Horlan.md",
+    "NSC/stonetop/Gwenda.md",
+    "NSC/stonetop/Brenwan.md",
+    "Templates/Charakter.md",
+    "Untitled.canvas"
+  ]
+}
