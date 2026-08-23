@@ -11,13 +11,14 @@
             "id": "f20c40bb1e5ddd49",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Unbenannt.base",
-                "viewName": "Tabelle"
+                "file": "Orte/Flachland.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Unbenannt"
+              "icon": "lucide-file",
+              "title": "Flachland"
             }
           }
         ]
@@ -82,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 316.5
   },
   "right": {
     "id": "863b07884767cdd1",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unbenannt.base",
+                "file": "Orte/Flachland.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unbenannt.base",
+                "file": "Orte/Flachland.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unbenannt.base",
+                "file": "Orte/Flachland.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -187,8 +188,11 @@
   },
   "active": "f20c40bb1e5ddd49",
   "lastOpenFiles": [
-    "Unbenannt 1.base",
+    "GM/love letter/LL-Lila.md",
+    "Orte/Flachland.md",
+    "GM/love letter/LL-Rhys.md",
     "Unbenannt.base",
+    "Unbenannt 1.base",
     "GM/sessions/session 1.md",
     "GM/threats/homefront/Die alte Schmiedin.md",
     "GM/threats/nearby/Der Graue Verfall.md",
@@ -204,8 +208,6 @@
     "Orte/Marshedge.md",
     "NSC/stonetop/Meinir.md",
     "NSC/stonetop",
-    "GM/love letter/LL-Lila.md",
-    "GM/love letter/LL-Rhys.md",
     "GM/love letter",
     "GM/sessions",
     "NSC/stonetop/Alis.md",
@@ -217,7 +219,6 @@
     "GM/threats/homefront",
     "GM/threats",
     "Landschaften/Ferrier’s Fen.md",
-    "GM",
     "NSC/stonetop/Ifur.md",
     "NSC/stonetop/Horlan.md",
     "NSC/stonetop/Gwenda.md",
