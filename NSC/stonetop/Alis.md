@@ -11,6 +11,6 @@ Hebamme
 
 ## **Familie:**
 [[Horlan]] Ehemann
-[[NSC/stonetop/Jorin]] Tochter
+[[Jorin]] Tochter
 ## **wichtige Ereignisse:**
 Hat ihren Mann bei einem Ausflug im Wald verloren

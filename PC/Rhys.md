@@ -14,7 +14,7 @@ struppig, wolfsähnlich
 #### Erwachsen
 - vor 10 Jahren bei der Jagd ein Wolfspaar getötet die sich um einen junges kümmern mussten
 - Er wurde von Danu dafür verflucht die Gefühle des Wolfjungen zu spüren und dazu verdammt sich um es zu kümmern.
-- hat das junge [[NSC/stonetop/Wolf]] genannt und und gegen den Willen des Dorfes dort gros gezogen
+- hat das junge [[Wolf]] genannt und und gegen den Willen des Dorfes dort gros gezogen
 - hat seit dem Probleme damit Tiere zu töten
 - seit einiger Zeit hat er das Gefühl eine dunkle Aura im Wald wahr zu nehmen
 - vor ca. 1 Jahr ist einer seiner Hunde auf einem Jagdausflug im Nebel war dort wieder diese Aura. Einer der Hunde ist ohne Vorwarnung losgestürmt und im Wald verschwunden.
@@ -35,7 +35,7 @@ struppig, wolfsähnlich
 ## Beziehungen
 - [[Brenwan]] Mentorin und Ziehmutter
 - [[Ifur]] Ehemann
-- [[NSC/stonetop/Wolf]] Tiergefährte
+- [[Wolf]] Tiergefährte
 - [[Teagan]] lehrling
 
 # Besitz

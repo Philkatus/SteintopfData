@@ -40,7 +40,7 @@ Als Sattler die Verarbeitung von Leder
 [[Vaahid]] Lehrmeister und Freund, sind im streit auseinander gegangen nachdem sie den Speer gefunden haben
 [[Talisyn]] Bester freund, arbeiten oft zusammen weil er gerber ist
 [[Gwenda]] macht Botengänge für sie, experimentieren zusammen mit verschiedenen Whisky Zutaten
-[[NSC/stonetop/Jorin]] fühlt sich für sie Verantwortlich weil er sich die Schuld gibt für den Tot ihres Vaters
+[[Jorin]] fühlt sich für sie Verantwortlich weil er sich die Schuld gibt für den Tot ihres Vaters
 [[Niamh]] Schwester, haben eine sehr distanzierte Beziehung er schreibt ihr immer noch Briefe ist sich aber nicht sicher ob sie ankommen weil sie ihm nie antwortet
 
 

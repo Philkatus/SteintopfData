@@ -16,6 +16,6 @@ dg-home: true
 
 ## Helden:
 - [[Rhys]] Marian
-- [[Lila]] Lila
+- [[Arren]] Lila
 - [[Selina]] Selina
 
