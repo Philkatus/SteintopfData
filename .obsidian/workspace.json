@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSC/Niamh.md",
+                "file": "PC/Arren.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Niamh"
+              "title": "Arren"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSC/Niamh.md",
+                "file": "PC/Arren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSC/Niamh.md",
+                "file": "PC/Arren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSC/Niamh.md",
+                "file": "PC/Arren.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,6 +188,11 @@
   },
   "active": "f20c40bb1e5ddd49",
   "lastOpenFiles": [
+    "GM/love letter/LL-Arren.md",
+    "PC/Arren.md",
+    "Orte/Runengrab.md",
+    "GM/sessions/Session 2.md",
+    "NSC/Niamh.md",
     "NSC/stonetop/Jorin.md",
     "NSC/stonetop/Ifur.md",
     "PC/Rhys.md",
@@ -212,14 +217,9 @@
     "NSC/stonetop/Talisyn.md",
     "NSC/Marshedge",
     "NSC/Marshedge/Róisín.md",
-    "NSC/Niamh.md",
-    "Orte/Marshedge.md",
     "NSC/stonetop",
     "GM/love letter",
     "GM/sessions",
-    "NSC/Marshedge/Vaahid.md",
-    "NSC/stonetop/Teagan.md",
-    "Templates/Threat.md",
     "GM/threats/far away",
     "GM/threats/nearby",
     "GM/threats/homefront",
