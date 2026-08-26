@@ -1,0 +1,4 @@
+- eine einfache dicke Münze aus [[Rotes Metall]]
+- sie scheint immer warm zu sein als hätte sie in der Sonne gelegen
+- auf ihr ist [[das Symbol]] eingerizt
+- sie wurde [[Arren]] in [[session 1]] von [[seltsame fremde]] gegeben
