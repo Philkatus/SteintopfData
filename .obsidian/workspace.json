@@ -11,14 +11,14 @@
             "id": "f20c40bb1e5ddd49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "PC/Arren.md",
-                "mode": "source",
-                "source": false
+                "aFile": "References/Templates/Charakter.md",
+                "bFile": "References/Templates/Charakter.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Arren"
+              "icon": "diff",
+              "title": "Diff: Charakter  (Working Tree)"
             }
           }
         ]
@@ -99,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC/Arren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PC/Arren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -147,7 +145,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PC/Arren.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,42 +185,46 @@
   },
   "active": "f20c40bb1e5ddd49",
   "lastOpenFiles": [
-    "GM/love letter/LL-Arren.md",
+    "World/Landschaften/Makers Road.md",
+    "GM/love letter/LL-Arren 1 -Gwendas limoncello.md",
+    "World/Landschaften/Flachland.md",
+    "References/Templates/Charakter.md",
     "PC/Arren.md",
-    "Orte/Runengrab.md",
-    "GM/sessions/Session 2.md",
-    "NSC/Niamh.md",
-    "NSC/stonetop/Jorin.md",
-    "NSC/stonetop/Ifur.md",
-    "PC/Rhys.md",
-    "Orte/Makers Road.md",
-    "NSC/stonetop/Meinir.md",
-    "NSC/stonetop/Horlan.md",
-    "NSC/stonetop/Gwenda.md",
-    "NSC/stonetop/Alis.md",
-    "NSC/stonetop/Brenwan.md",
-    "Orte/Flachland.md",
-    "GM/love letter/LL-Lila.md",
-    "GM/love letter/LL-Rhys.md",
-    "Unbenannt.base",
-    "Unbenannt 1.base",
-    "GM/sessions/session 1.md",
-    "GM/threats/homefront/Die alte Schmiedin.md",
-    "GM/threats/nearby/Der Graue Verfall.md",
-    "GM/threats/homefront/Wolf macht ärger.md",
-    "GM/threats/homefront/Jorin der waghalsige.md",
-    "Orte/Stonetop.md",
-    "NSC/stonetop/Wolf.md",
-    "NSC/stonetop/Talisyn.md",
-    "NSC/Marshedge",
-    "NSC/Marshedge/Róisín.md",
-    "NSC/stonetop",
-    "GM/love letter",
-    "GM/sessions",
-    "GM/threats/far away",
-    "GM/threats/nearby",
-    "GM/threats/homefront",
-    "GM/threats",
+    "conflict-files-obsidian-git.md",
+    "World/NSC/stonetop/Wolf.md",
+    "World/NSC/stonetop/Teagan.md",
+    "World/NSC/stonetop/Talisyn.md",
+    "World/NSC/stonetop/Meinir.md",
+    "World/NSC/stonetop/Jorin.md",
+    "World/NSC/stonetop/Ifur.md",
+    "World/NSC/stonetop/Horlan.md",
+    "World/NSC/stonetop/Gwenda.md",
+    "World/NSC/stonetop/Brenwan.md",
+    "World/NSC/stonetop/Alis.md",
+    "World/NSC/Marshedge/Vaahid.md",
+    "World/NSC/Marshedge/Róisín.md",
+    "World/SC/Selina.md",
+    "World/SC/Rhys.md",
+    "World/SC/Arren.md",
+    "World/Ressourcen/Rotes Metall.md",
+    "World/Ressourcen/limoncello.md",
+    "World/PC/Arren.md",
+    "World/Orte/Stonetop.md",
+    "World/Orte/Runengrab.md",
+    "World/NSC/stonetop",
+    "World/NSC/Marshedge",
+    "World/SC",
+    "World/Ressourcen",
+    "World/PC",
+    "World/Orte",
+    "World/Organisationen",
+    "World/NSC",
+    "World/Landschaften",
+    "World/Kreaturen",
+    "References/Bilder/Pasted image 20260902182845.png",
+    "References/Bilder/Pasted image 20260827134755.png",
+    "References/Bilder/Pasted image 20260826115243.png",
+    "References/Bilder/Pasted image 20260826113934.png",
     "Untitled.canvas"
   ]
 }

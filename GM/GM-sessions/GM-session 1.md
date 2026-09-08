@@ -1,7 +1,7 @@
 
 #### Loveletters:
 - [[LL-Rhys]]
-- [[LL-Arren]]
+- [[LL-Arren 1 -Gwendas limoncello]]
 #### Fragen:
   
 [[Rhys]] warum habt ihr aufgegeben den Hund zu heilen der letztes Jahr an der Verwesung gestorben ist?  
@@ -32,6 +32,8 @@ Wayside
 Gästebuch man hinterlässt seinen namen wann ungefähr und warum man da wa  
   
 Nächste session mit keep company starten  
+
+Limoncello aus zitronenfarn wird gerade entwickelt. Ab dem Sommer gibt es welchen
   
 #### End of session  
   

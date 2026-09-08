@@ -1,0 +1,5 @@
+- eine einfache dicke Münze aus [[Rotes Metall]]
+- sie scheint immer warm zu sein als hätte sie in der Sonne gelegen
+- auf ihr ist [[das Symbol]] eingerizt
+- sie wurde [[Arren]] in [[Session 01 - Die Reiterin (18.08.2026)]] von [[seltsame fremde]] gegeben
+- [[Arren]] kennt Geschichten darüber: [[Die Herren der Schmiede]] haben es benutzt. Es hat etwas mit den "Things from below" zu tun
