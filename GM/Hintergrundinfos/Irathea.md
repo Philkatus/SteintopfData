@@ -1,0 +1,5 @@
+- War die [[seltsame fremde]] aus [[session 1]]
+- Hat sich bei einem Kampf im Wald mit dem [[Grauer Verfall]] angesteckt
+-  ist im Anschluss zum einzigen vermeindlichen Anhänger vom geschlossenen Tor geritten um ihm seine Aufzeichnungen zu geben
+- sie ist dabei dem Ruf [[der Speer]] gefolgt
+- um das ansteckungs Risiko klein zu halten hat sie die beiden zum gereinigten Ort [[Runengrab]] geführt um dort in der ewigen flamme ihre Notizen zu reinigenq
