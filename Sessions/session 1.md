@@ -1,1 +1,0 @@
-"Stichpunktartige zusammenfassung von session 1"

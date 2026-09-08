@@ -53,3 +53,7 @@ ein gut erhaltenes Stahlmesser das er von seinen Eltern geerbt hat
 offene Fragen:
 Sind seine Eltern noch am leben? Falls nicht wie sind sie gestorben?
 Was genau ist zwischen Horlan und ihm vorgefallen?
+
+
+- Hat Angst vor [[Titan Bones]]. Er war auf dem Weg nach Stonetop dort und hatte ein ungutes Gefühl an dem Ort. Dort sah er auch das Symbol wieder
+- Jorin überquerte einst waghalsig den Fluss, als das Wasser sehr hoch stand und fiel fast hinein, das versetzte Arren in absolute Panik. Er hat jetzt immer ein Auge auf sie
