@@ -11,14 +11,14 @@
             "id": "f20c40bb1e5ddd49",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "References/Templates/Charakter.md",
-                "bFile": "References/Templates/Charakter.md",
-                "aRef": ""
+                "file": "GM/GM-sessions/GM-Session 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Charakter  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "GM-Session 2"
             }
           }
         ]
@@ -99,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GM/GM-sessions/GM-Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GM/GM-sessions/GM-Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -145,6 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "GM/GM-sessions/GM-Session 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,32 +188,32 @@
   },
   "active": "f20c40bb1e5ddd49",
   "lastOpenFiles": [
-    "World/Landschaften/Makers Road.md",
-    "GM/love letter/LL-Arren 1 -Gwendas limoncello.md",
-    "World/Landschaften/Flachland.md",
-    "References/Templates/Charakter.md",
-    "PC/Arren.md",
-    "conflict-files-obsidian-git.md",
+    "Sessions/Session 01 - Die Reiterin (18.08.2026).md",
+    "World/NSC/seltsame fremde.md",
+    "session 1.md",
+    "World/NSC/stonetop/Alis.md",
+    "World/NSC/stonetop/Brenwan.md",
+    "World/NSC/stonetop/Ifur.md",
+    "World/NSC/stonetop/Jorin.md",
+    "World/NSC/stonetop/Horlan.md",
+    "World/NSC/stonetop/Gwenda.md",
     "World/NSC/stonetop/Wolf.md",
     "World/NSC/stonetop/Teagan.md",
     "World/NSC/stonetop/Talisyn.md",
     "World/NSC/stonetop/Meinir.md",
-    "World/NSC/stonetop/Jorin.md",
-    "World/NSC/stonetop/Ifur.md",
-    "World/NSC/stonetop/Horlan.md",
-    "World/NSC/stonetop/Gwenda.md",
-    "World/NSC/stonetop/Brenwan.md",
-    "World/NSC/stonetop/Alis.md",
+    "GM/GM-sessions/GM-Session 2.md",
+    "World/SC/Arren.md",
+    "World/PC/Arren.md",
+    "World/SC/Rhys.md",
+    "World/Landschaften/Flachland.md",
+    "Die Herren der Steine.md",
+    "World/Landschaften/Makers Road.md",
+    "GM/love letter/LL-Arren 1 -Gwendas limoncello.md",
+    "References/Templates/Charakter.md",
+    "PC/Arren.md",
+    "conflict-files-obsidian-git.md",
     "World/NSC/Marshedge/Vaahid.md",
     "World/NSC/Marshedge/Róisín.md",
-    "World/SC/Selina.md",
-    "World/SC/Rhys.md",
-    "World/SC/Arren.md",
-    "World/Ressourcen/Rotes Metall.md",
-    "World/Ressourcen/limoncello.md",
-    "World/PC/Arren.md",
-    "World/Orte/Stonetop.md",
-    "World/Orte/Runengrab.md",
     "World/NSC/stonetop",
     "World/NSC/Marshedge",
     "World/SC",

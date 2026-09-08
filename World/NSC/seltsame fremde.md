@@ -11,4 +11,4 @@
 
 
 #### wichtige Ereignisse:
-- hat [[Rhys]] und [[Arren]] in [[session 1]] zum [[Runengrab]] geführt und ist dort verbrannt
+- hat [[Rhys]] und [[Arren]] in [[Session 01 - Die Reiterin (18.08.2026)]] zum [[Runengrab]] geführt und ist dort verbrannt

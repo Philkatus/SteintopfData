@@ -1,16 +1,16 @@
 #### Ziele
-- mehr character interaktion
+- mehr Charakter Interaktion
 - ein echtes Gefühl für das Dorf einbauen
 #### Loveletters
 
 #### Fragen
 - Welches große Frühlingsfest steht kurz vor der Tür?
-- Arren 
-- Rhys 
+- [[Arren]] vor welchem grässlichen Monster das es hier im Flachland geben soll hat Vaahid dir erzählt und wie schützt du dich davor?
+- [[Rhys]]  wie haben du und Ifur euch kennen gelernt?
 #### Szenen
-- Einführung von Selinas Charakter
 - kurzes Recap
 	- Runen konnten nur teilweise abgeschrieben werden redcon
+	- Beschreibung der Steppe
 - Sie bauen das Lager auf, beschreibt es?
 	- keep company
 	- haltet ihr wache?
