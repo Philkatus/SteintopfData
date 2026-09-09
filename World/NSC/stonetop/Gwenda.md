@@ -1,16 +1,17 @@
 ---
 dg-publish: true
 ---
-**Pronomen:**
+**sie/ihr**
+#### Heimat:
+#### Beruf:
 
-## **Beruf:**
-
-## **Charakter:**
-
-
-## **Aussehen**:
-
-## **Familie:**
+#### Charakter:
 
 
-## **wichtige Ereignisse:**
+#### Aussehen:
+- 
+
+#### Beziehungen:
+[[Talisyn]] seine Schwester
+
+#### wichtige Ereignisse:

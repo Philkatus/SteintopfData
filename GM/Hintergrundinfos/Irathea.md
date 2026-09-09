@@ -1,4 +1,4 @@
-- War die [[seltsame fremde]] aus [[session 1]]
+- War die [[seltsame fremde]] aus [[Session 01 - Die Reiterin (18.08.2026)]]
 - Hat sich bei einem Kampf im Wald mit dem [[Grauer Verfall]] angesteckt
 -  ist im Anschluss zum einzigen vermeindlichen Anhänger vom geschlossenen Tor geritten um ihm seine Aufzeichnungen zu geben
 - sie ist dabei dem Ruf [[der Speer]] gefolgt

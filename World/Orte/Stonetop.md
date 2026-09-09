@@ -9,7 +9,7 @@ dg-home: true
 - [[Talisyn]] Gerber
 - [[Ifur]] Töpfer
 - [[Alis]] Hebamme
-- [[Brenwan]] elder ehemalige Jägerin
+- [[Branwen]] elder ehemalige Jägerin
 - [[Teagan]] Jager Schüler
 - [[Jorin]] Dachdeckerin
 - [[Wolf]] wolf

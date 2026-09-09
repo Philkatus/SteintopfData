@@ -8,9 +8,9 @@ struppig, wolfsähnlich
 ## Vorgeschichte
 #### Jugend
 - Hat sich als Kind im Wald verirrt 
-- wurde dort von [[Brenwan]] gefunden und nach Stonetop gebracht
+- wurde dort von [[Branwen]] gefunden und nach Stonetop gebracht
 - seine Eltern wurden nie gefunden
-- Wurde von [[Brenwan]] als Jäger ausgebildet
+- Wurde von [[Branwen]] als Jäger ausgebildet
 #### Erwachsen
 - vor 10 Jahren bei der Jagd ein Wolfspaar getötet die sich um einen junges kümmern mussten
 - Er wurde von Danu dafür verflucht die Gefühle des Wolfjungen zu spüren und dazu verdammt sich um es zu kümmern.
@@ -33,13 +33,13 @@ struppig, wolfsähnlich
 
 
 ## Beziehungen
-- [[Brenwan]] Mentorin und Ziehmutter
+- [[Branwen]] Mentorin und Ziehmutter
 - [[Ifur]] Ehemann
 - [[Wolf]] Tiergefährte
 - [[Teagan]] lehrling
 
 # Besitz
-- Bogen von [[Brenwan]] geschenkt bekommen
+- Bogen von [[Branwen]] geschenkt bekommen
 - einige Unterschlüpfe im Wald
 - 
 

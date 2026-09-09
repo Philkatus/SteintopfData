@@ -1,10 +1,10 @@
 ---
 dg-publish: true
 ---
-**Pronomen:**
+**Pronomen:** sie/ihr
 
 ## **Beruf:**
-
+Meinir 
 ## **Charakter:**
 
 

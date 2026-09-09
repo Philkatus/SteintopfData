@@ -8,7 +8,7 @@ dg-publish: true
 ## **Charakter:**
 - ruhig und approachable
 - verliert sich gerne mal in seiner Arbeit
-- 
+	- so sehr das er alles um sich herum vergisst
 ## **Aussehen**:
 - lange blonde Haar 
 	- meistens in einfachen Frisuren hochgebunden
