@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM/GM-sessions/GM-Session 2.md",
+                "file": "World/Gegenstände/der Speer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GM-Session 2"
+              "title": "der Speer"
+            }
+          },
+          {
+            "id": "99fcb7119f369c88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 02 - Der Nosgalau auf dem Rückweg.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 02 - Der Nosgalau auf dem Rückweg"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GM/GM-sessions/GM-Session 2.md",
+                "file": "Sessions/Session 02 - Der Nosgalau auf dem Rückweg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GM/GM-sessions/GM-Session 2.md",
+                "file": "Sessions/Session 02 - Der Nosgalau auf dem Rückweg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -147,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GM/GM-sessions/GM-Session 2.md",
+                "file": "Sessions/Session 02 - Der Nosgalau auf dem Rückweg.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,34 +201,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f20c40bb1e5ddd49",
+  "active": "99fcb7119f369c88",
   "lastOpenFiles": [
+    "World/Kreaturen/Gweadback.md",
+    "GM/GM-sessions/GM-Session 2.md",
+    "Sessions/Session 02 - Der Nosgalau auf dem Rückweg.md",
     "Sessions/Session 01 - Die Reiterin (18.08.2026).md",
+    "World/Ressourcen/Rotes Metall.md",
+    "World/Landschaften/Flachland.md",
+    "World/Landschaften/Makers Road.md",
+    "World/Ressourcen/limoncello.md",
+    "World/Orte/Marshedge.md",
+    "World/Organisationen/Fen walker.md",
+    "World/Landschaften/Ferrier’s Fen.md",
+    "World/Kreaturen/Rudeldrachen.md",
+    "World/Kreaturen/Nosgalau.md",
+    "World/Gegenstände/Die rote Münze.md",
+    "World/Gegenstände/der Speer.md",
+    "Templates/GM-session.md",
+    "Templates/Charakter.md",
+    "World/NSC/stonetop/Ofydd.md",
+    "World/NSC/stonetop/Branwen.md",
+    "Templates/Threat.md",
+    "Templates/Ort.md",
+    "Templates",
     "World/NSC/seltsame fremde.md",
     "session 1.md",
     "World/NSC/stonetop/Alis.md",
     "World/NSC/stonetop/Brenwan.md",
     "World/NSC/stonetop/Ifur.md",
-    "World/NSC/stonetop/Jorin.md",
-    "World/NSC/stonetop/Horlan.md",
-    "World/NSC/stonetop/Gwenda.md",
-    "World/NSC/stonetop/Wolf.md",
-    "World/NSC/stonetop/Teagan.md",
-    "World/NSC/stonetop/Talisyn.md",
-    "World/NSC/stonetop/Meinir.md",
-    "GM/GM-sessions/GM-Session 2.md",
-    "World/SC/Arren.md",
-    "World/PC/Arren.md",
-    "World/SC/Rhys.md",
-    "World/Landschaften/Flachland.md",
-    "Die Herren der Steine.md",
-    "World/Landschaften/Makers Road.md",
-    "GM/love letter/LL-Arren 1 -Gwendas limoncello.md",
-    "References/Templates/Charakter.md",
-    "PC/Arren.md",
-    "conflict-files-obsidian-git.md",
-    "World/NSC/Marshedge/Vaahid.md",
-    "World/NSC/Marshedge/Róisín.md",
     "World/NSC/stonetop",
     "World/NSC/Marshedge",
     "World/SC",
@@ -223,7 +239,6 @@
     "World/Organisationen",
     "World/NSC",
     "World/Landschaften",
-    "World/Kreaturen",
     "References/Bilder/Pasted image 20260902182845.png",
     "References/Bilder/Pasted image 20260827134755.png",
     "References/Bilder/Pasted image 20260826115243.png",

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - eine einfache dicke Münze aus [[Rotes Metall]]
 - sie scheint immer warm zu sein als hätte sie in der Sonne gelegen
 - auf ihr ist [[das Symbol]] eingerizt

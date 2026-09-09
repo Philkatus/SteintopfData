@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - seltsames Feuerrotes Metall
 - scheint immer Warm zu sein
 - In der näher einer [[ewige Flamme]] erhitz es sich immens
