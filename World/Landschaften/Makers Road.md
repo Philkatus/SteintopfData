@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Ein kleines Netzwerk aus zwei sicheren aus steingebauten Straßen
 #### Events
 

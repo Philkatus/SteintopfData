@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 #### Geschichte von [[Vaahid]] 
 - flacher vierbeiniges Raubtier bis zu 2 m lang

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 02 - Der Nosgalau auf dem Rückweg.md",
+                "file": "World/SC/Selina.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 02 - Der Nosgalau auf dem Rückweg"
+              "title": "Selina"
             }
           }
         ],
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 02 - Der Nosgalau auf dem Rückweg.md",
+                "file": "World/SC/Selina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 02 - Der Nosgalau auf dem Rückweg.md",
+                "file": "World/SC/Selina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 02 - Der Nosgalau auf dem Rückweg.md",
+                "file": "World/SC/Selina.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -203,33 +203,33 @@
   },
   "active": "99fcb7119f369c88",
   "lastOpenFiles": [
-    "World/Kreaturen/Gweadback.md",
-    "GM/GM-sessions/GM-Session 2.md",
-    "Sessions/Session 02 - Der Nosgalau auf dem Rückweg.md",
-    "Sessions/Session 01 - Die Reiterin (18.08.2026).md",
+    "World/SC/Rhys.md",
+    "World/SC/Arren.md",
     "World/Ressourcen/Rotes Metall.md",
-    "World/Landschaften/Flachland.md",
-    "World/Landschaften/Makers Road.md",
     "World/Ressourcen/limoncello.md",
+    "World/Orte/Stonetop.md",
+    "World/Orte/Runengrab.md",
     "World/Orte/Marshedge.md",
+    "World/NSC/stonetop/Gwenda.md",
+    "Sessions/Session 01 - Die Reiterin (18.08.2026).md",
+    "Sessions/Session 02 - Der Nosgalau auf dem Rückweg.md",
     "World/Organisationen/Fen walker.md",
-    "World/Landschaften/Ferrier’s Fen.md",
-    "World/Kreaturen/Rudeldrachen.md",
-    "World/Kreaturen/Nosgalau.md",
-    "World/Gegenstände/Die rote Münze.md",
-    "World/Gegenstände/der Speer.md",
-    "Templates/GM-session.md",
-    "Templates/Charakter.md",
-    "World/NSC/stonetop/Ofydd.md",
-    "World/NSC/stonetop/Branwen.md",
-    "Templates/Threat.md",
-    "Templates/Ort.md",
-    "Templates",
     "World/NSC/seltsame fremde.md",
-    "session 1.md",
-    "World/NSC/stonetop/Alis.md",
-    "World/NSC/stonetop/Brenwan.md",
+    "World/NSC/Niamh.md",
+    "World/NSC/stonetop/Wolf.md",
+    "World/NSC/stonetop/Teagan.md",
+    "World/NSC/stonetop/Talisyn.md",
+    "World/NSC/stonetop/Ofydd.md",
+    "World/NSC/stonetop/Meinir.md",
+    "World/NSC/stonetop/Jorin.md",
     "World/NSC/stonetop/Ifur.md",
+    "World/NSC/stonetop/Horlan.md",
+    "World/NSC/stonetop/Branwen.md",
+    "World/NSC/stonetop/Alis.md",
+    "World/NSC/Marshedge/Vaahid.md",
+    "World/NSC/Marshedge/Róisín.md",
+    "World/Landschaften/Makers Road.md",
+    "Templates",
     "World/NSC/stonetop",
     "World/NSC/Marshedge",
     "World/SC",
