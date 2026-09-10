@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 - Ein Großes Steintor führt in einen Augenförmigen Raum
 - in der Mitte des Raumes steht eine Steinsäule auf der eine Steinschale steht in der eine [[ewige Flamme]] brennt
 - die Wände sind mit etlichen Runen verziehrt
