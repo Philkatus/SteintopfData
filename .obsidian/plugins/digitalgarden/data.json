@@ -1,17 +1,20 @@
 {
   "githubRepo": "steintopf",
-  "githubToken": "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",
+  "githubToken": "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",
   "githubUserName": "philkatus",
   "gardenBaseUrl": "https://steintopf.vercel.app/",
   "prHistory": [],
   "baseTheme": "dark",
   "theme": "{\"name\":\"Ravenloft\",\"author\":\"circkumflexx\",\"repo\":\"circkumflexx/obsidian-ravenloft-theme\",\"screenshot\":\"preview.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/circkumflexx/obsidian-ravenloft-theme/HEAD/theme.css\"}",
   "faviconPath": "",
+  "logoPath": "",
+  "logoHeight": "",
   "useFullResolutionImages": false,
   "noteSettingsIsInitialized": true,
   "siteName": "Steintopf",
   "mainLanguage": "ger",
   "slugifyEnabled": true,
+  "excalidrawSvgExportEnabled": true,
   "noteIconKey": "dg-note-icon",
   "defaultNoteIcon": "",
   "showNoteIconOnTitle": false,
@@ -45,5 +48,25 @@
     "dgShowToc": true,
     "dgLinkPreview": true,
     "dgShowTags": false
-  }
+  },
+  "uiStrings": {
+    "backlinkHeader": "",
+    "noBacklinksMessage": "",
+    "searchButtonText": "",
+    "searchPlaceholder": "",
+    "searchNotStarted": "",
+    "searchEnterHotkey": "",
+    "searchEnterHint": "",
+    "searchNavigateHotkey": "",
+    "searchNavigateHint": "",
+    "searchCloseHotkey": "",
+    "searchCloseHint": "",
+    "searchNoResults": "",
+    "searchPreviewPlaceholder": "",
+    "canvasDragHint": "",
+    "canvasZoomHint": "",
+    "canvasResetHint": ""
+  },
+  "localExportPath": "",
+  "contentBaseDir": ""
 }
