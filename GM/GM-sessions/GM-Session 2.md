@@ -33,7 +33,6 @@
 		- kann nicht klettern
 		- läuft sehr schnell mit kurzen beinen
 		- kann sich nicht schnell drehen
-		- Siehe "shellback drake in the flats"
 	- [[Rhys]] hat einen Albtraum und wacht auf
 	- [[Rhys]] sieht und hört einen [[Nosgalau]]
 		- hörst den ruf der nosgalau wessen Stimme hörst du und wie versucht sie dich anzulocken?
