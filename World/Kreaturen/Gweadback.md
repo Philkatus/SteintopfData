@@ -11,3 +11,6 @@ dg-publish: true
 - kann nicht klettern
 - läuft sehr schnell mit kurzen beinen hat aber Schwierigkeiten sich schnell zu drehen
 - kann sich nicht schnell drehen
+
+
+
