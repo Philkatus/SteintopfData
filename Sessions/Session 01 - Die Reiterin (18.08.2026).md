@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Was ist passiert
 
 **FRÜHLING**

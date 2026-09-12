@@ -6,6 +6,7 @@ Was ist unter dem Hollunderbaum gefangen aus dem [[Der Speer]] geschnitzt ist?
 Wer könnte hinter dem Speer her sein?  
   
   
-Wer sind Rhys eltern?  
+Wer sind Rhys Eltern?  
+Wer ist das Mädchen in [[Rhys]] träumen
 Wo sind sie abgeblieben?  
 Was ist die dunkle Macht im Wald die Rhys gespürt hat?
