@@ -20,7 +20,7 @@ dg-publish: true
 ##### Makers Road
 - Gemeinsam ein Lager an der [[Makers Road#Rastplätze|Raststätte]] aufgeschlagen um sich für die Nacht vorbereiten. 
 - Die letzten Stunden vor dem Schlafen habe sie sich mit steinwürfeln vertrieben
-- zwischendurch verliert sich [[Rhys]] 
+- zwischendurch verliert sich [[Rhys]] im buch
 - Aufgrund von Mangelnden Ressourcen um ein Feuer zu machen haben sie sich gemeinsam in eine Decke gekuschelt um den kalten Wind auszuhalten 
 - [[Arren]] denkt während seiner Wache über eine Geschichte die [[Vaahid]] ihm mal erzählt hat über die [[Gweadback]] ein schrecklicher Schleichräuber der im hohen Gwead auf seine Beute wartet
 - ansonsten war seine Wache ereignislos bis [[Rhys]] plötzlich aus einem Alptraum hochschreckt

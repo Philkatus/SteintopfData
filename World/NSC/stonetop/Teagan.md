@@ -1,16 +1,23 @@
 ---
 dg-publish: true
 ---
-**Pronomen:**
+**er/ ihm**
+17 Jahre 
+#### Heimat:
+[[Stonetop]]
+#### Beruf:
+Jägerslehrling
 
-## **Beruf:**
+#### Charakter:
+ängstlich, zurückhaltend, im Dorf sehr verschlossen, im Wald offener, 
 
-## **Charakter:**
+#### Interessen:
+Kräuterkunde, nähen, Heilkunst, Tiere ausnehmen
+
+#### Aussehen:
 
 
-## **Aussehen**:
+#### Beziehungen:
+[[Ofydd]] Bruder
 
-## **Familie:**
-
-
-## **wichtige Ereignisse:**
+#### wichtige Ereignisse:

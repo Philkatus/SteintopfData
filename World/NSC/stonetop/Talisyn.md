@@ -2,7 +2,7 @@
 dg-publish: true
 ---
 **er/ihm**
-47 Jahre
+42 Jahre
 #### Heimat:
 [[Stonetop]]
 #### Beruf:
@@ -16,14 +16,13 @@ Brandnarbe mitten durchs Gesicht
 Kurze rote Haare
 
 
-
 #### Beziehungen:
 [[Gwenda]] seine jüngere Schwester
 [[Arren]] sein bester Freund
 [[Alis]] es ist kompliziert
 
 #### wichtige Ereignisse:
-- Als Jugendlicher bei einem "experiment" seiner Schwester brennenden Aökohol ins Gesicht bekommen
+- Als Jugendlicher bei einem "experiment" seiner Schwester brennenden Alkohol ins Gesicht bekommen
 	- Hat er ihr mitlerweile verziehen
 	- kann seit dem kaum noch Riechen
 	- perfekt als Gerber
