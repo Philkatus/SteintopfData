@@ -1,0 +1,10 @@
+- Mutra the Teeth (mines, timber)  
+	- Mutra Reiszahn
+- Odo Thriceborn (mines, housing)  
+	- Odo der dritte
+- Honest Draigh (trade with Marshedge, food)  
+	- der ehrliche Draigh
+- Jahalim of the Keys (Foundry)  
+	- Jahalim Schlüsselbart
+- Smiling Ffransis (water, booze)
+	- grinsende Ffransis

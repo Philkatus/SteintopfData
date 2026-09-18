@@ -24,7 +24,7 @@ Renan, Seadha, Seann, Tierney, Ulliam
 #### Lygos
 Inspired by Greek, Hebrew, Persian, and 
 Arabic: Agatte, Aref, Alix, Baraz, Canan, 
-Darya, Demetra, Elene, Elios, Fotios, 
+Darya, Demetra, Elene, Elios, [[Fotios  Silberauge]], 
 Faruza, Golza, Iasos, Iona, Kyriakos, Marika,
 Maayan, Osher, Natasa, Nivola, Rinat, 
 Stamat, Thecla, Zhaleh.
