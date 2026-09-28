@@ -6,7 +6,7 @@ Ceridwyn, Cerys, Colwyn, Deiniol, Dilwen,
 Dylis, Eifion, Eirlys, ~~Eluned~~, Emrys, Enfys,  
 Eurwen, Gaenor, Garet, Gethin, Glyndir,  
 Heledd, Hywel, Ifan, Iorwerth, Iwan, Leuca,  
-Lewela, Linos, Mado, Maldwyn, Malon,  
+~~Lewela~~, Linos, Mado, Maldwyn, Malon,  
 Mared, Marged, Martyn, Meirion, Menwen,  
 Mererid, Neirin, Nia, Ofydd, Olwyn,  
 Owain, Padrig, Parry, Pryce, Pryder, Rheinal,  
@@ -24,10 +24,10 @@ Renan, Seadha, Seann, Tierney, Ulliam
 #### Lygos
 Inspired by Greek, Hebrew, Persian, and 
 Arabic: Agatte, Aref, Alix, Baraz, Canan, 
-Darya, Demetra, Elene, Elios, [[Fotios  Silberauge]], 
+Darya, Demetra, Elene, Elios, ~~Fotios~~, 
 Faruza, Golza, Iasos, Iona, Kyriakos, Marika,
 Maayan, Osher, Natasa, Nivola, Rinat, 
-Stamat, Thecla, Zhaleh.
+Stamat, Thecla, ~~Zhaleh~~.
 
 #### Hillfolk
 Breton-inspired, but missing vowels and  

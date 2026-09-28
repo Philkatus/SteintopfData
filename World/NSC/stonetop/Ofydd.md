@@ -14,6 +14,8 @@ Oft schläfrig, schnell abgelenkt, gerne mal philosophisch,
 #### Beziehungen:
 [[Jorin]] ??
 [[Teagan]] älterer Bruder
+[[Rhosyn]] Mutter
+[[Heledd]] Ziehmutter
 
 #### wichtige Ereignisse
 - hat in Session 2 mit [[Jorin]] Wache gehalten als die [[seltsame fremde]] angeritten kam

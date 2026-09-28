@@ -11,14 +11,14 @@
             "id": "4f2204a96a398e20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Sessions/Session 02 - Der Nosgalau auf dem Rückweg.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Session 02 - Der Nosgalau auf dem Rückweg"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,33 +197,36 @@
       "spoiler:Toggle spoiler on selection": false
     }
   },
-  "active": "4f2204a96a398e20",
+  "active": "cd1693cd8978e0a1",
   "lastOpenFiles": [
+    "GM/Namensliste.md",
+    "GM/Hintergrundinfos/Das Buch.md",
+    "Sessions/Session 03 - Heimkehr und aufbruch.md",
+    "GM/GM-nsc/Die Bosse von Gordin's delve.md",
+    "Templates/Session.md",
+    "GM/GM-sessions/GM-Session 4.md",
+    "GM/GM-nsc/Zhaleh.md",
+    "World/Orte/Gordin's Delve.md",
+    "World/Orte/Lygos.md",
+    "World/SC/Selina.md",
+    "Zahleh.md",
+    "GM/GM-nsc/Unbenannt.md",
+    "GM/GM-nsc",
+    "World/NSC/stonetop/Rhosyn.md",
+    "World/NSC/stonetop/Heledd.md",
+    "World/NSC/stonetop/Ofydd.md",
+    "World/NSC/stonetop/Meinir.md",
+    "World/NSC/stonetop/Jorin.md",
+    "World/NSC/stonetop/Eluned.md",
     "GM/GM-sessions/GM-Session 3.md",
+    "World/Orte/Das grüne Fest.md",
+    "World/NSC/Marshedge/Fotios  Silberauge.md",
+    "References/Bilder/Pasted image 20260915174310.png",
+    "World/NSC/Marshedge/Caulan.md",
+    "GM/GM-sessions/Before session.md",
     "Sessions/Session 02 - Der Nosgalau auf dem Rückweg.md",
     "Sessions/Session 01 - Die Reiterin (18.08.2026).md",
     "GM/GM-sessions/GM-Session 2.md",
-    "Templates/GM - notiz.md",
-    "GM/I wonder.md",
-    "World/Gegenstände/der Speer.md",
-    "World/Kreaturen/Rudeldrachen.md",
-    "World/Kreaturen/Nosgalau.md",
-    "World/Kreaturen/Gweadback.md",
-    "conflict-files-obsidian-git.md",
-    "World/SC/Selina.md",
-    "World/SC/Rhys.md",
-    "World/SC/Arren.md",
-    "World/Ressourcen/Rotes Metall.md",
-    "World/Ressourcen/limoncello.md",
-    "World/Orte/Stonetop.md",
-    "World/Orte/Runengrab.md",
-    "World/Orte/Marshedge.md",
-    "World/NSC/stonetop/Gwenda.md",
-    "World/Organisationen/Fen walker.md",
-    "World/NSC/seltsame fremde.md",
-    "World/NSC/Niamh.md",
-    "World/NSC/stonetop/Wolf.md",
-    "World/NSC/stonetop/Teagan.md",
     "Templates",
     "World/NSC/stonetop",
     "World/NSC/Marshedge",
@@ -233,7 +236,6 @@
     "World/Orte",
     "World/Organisationen",
     "World/NSC",
-    "World/Landschaften",
     "References/Bilder/Pasted image 20260902182845.png",
     "References/Bilder/Pasted image 20260827134755.png",
     "References/Bilder/Pasted image 20260826115243.png",

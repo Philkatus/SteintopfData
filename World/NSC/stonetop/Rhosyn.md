@@ -12,6 +12,6 @@ Mager, blass, kränklich, faltige Haut, Weiße ungepflegte Haare, Dunkelblaue Au
 #### Beziehungen:
 [[Eluned]] Tochter und nachfolgerin
 [[Ofydd]] Sohn 
-
+[[Heledd]] Schwester
 #### wichtige Ereignisse:
 Hat sich vor 5 Jahren ein schweres Fieber eingeholt und redet seit dem sehr wirr
