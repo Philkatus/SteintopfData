@@ -9,14 +9,17 @@
 - Die gefahren einer Reise deulich machen
 
 #### Fragen
-- [[Arren]] frage zu Jorin
-- [[Rhys]] 
+- [[Arren]] wer hat dir das erste mal von der Legende von Thor dem Fremden mit 9 Fingern erzählt?
+- [[Rhys]] Wer im Dorf behauptet schonmal ein seiner legendären Prüfungen bestanden zu haben?
+- [[Arren]] welchem täglichen Ritual gehen die Bewohner Stonetops nach um Thor zu ehren?
+- [[Rhys]] und wie sieht das mit Danu aus wie wird sie geehrt?
 #### Szenen
 - Sie lassen die Kreuzung hinter sich
 - eine Gestalt scheint ihnen im großen Abstand zu folgen (Jorin)
+
 - Ein gruppe Banditen lauert ihnen auf
 	- sie behaupten Thor persönlich schickt sie
-	- Sie wollen wegzoll
+	- Sie wollen Wegzoll
 	- 
 #### Orte
 - [[Makers Road]]

@@ -11,14 +11,14 @@
             "id": "4f2204a96a398e20",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "GM/Hintergrundinfos/Banditenanführer.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Banditenanführer"
             }
           }
         ]
@@ -197,20 +197,27 @@
       "spoiler:Toggle spoiler on selection": false
     }
   },
-  "active": "cd1693cd8978e0a1",
+  "active": "4f2204a96a398e20",
   "lastOpenFiles": [
+    "GM/GM-sessions/GM-Session 4.md",
+    "GM/Hintergrundinfos/Banditenanführer.md",
+    "Pasted image 20260928135510.png",
+    "References/Bilder/Pasted image 20260928134435.png",
+    "References/Bilder/Pasted image 20260928135233.png",
+    "References/Bilder/Pasted image 20260928135209.png",
+    "References/Bilder/Pasted image 20260928134946.png",
+    "References/Bilder/Pasted image 20260928134323.png",
+    "GM/Hintergrundinfos/Die Bosse von Gordin's delve.md",
+    "GM/Hintergrundinfos/Zhaleh.md",
+    "GM/GM-nsc/Unbenannt.md",
     "GM/Namensliste.md",
     "GM/Hintergrundinfos/Das Buch.md",
     "Sessions/Session 03 - Heimkehr und aufbruch.md",
-    "GM/GM-nsc/Die Bosse von Gordin's delve.md",
     "Templates/Session.md",
-    "GM/GM-sessions/GM-Session 4.md",
-    "GM/GM-nsc/Zhaleh.md",
     "World/Orte/Gordin's Delve.md",
     "World/Orte/Lygos.md",
     "World/SC/Selina.md",
     "Zahleh.md",
-    "GM/GM-nsc/Unbenannt.md",
     "GM/GM-nsc",
     "World/NSC/stonetop/Rhosyn.md",
     "World/NSC/stonetop/Heledd.md",
@@ -225,8 +232,6 @@
     "World/NSC/Marshedge/Caulan.md",
     "GM/GM-sessions/Before session.md",
     "Sessions/Session 02 - Der Nosgalau auf dem Rückweg.md",
-    "Sessions/Session 01 - Die Reiterin (18.08.2026).md",
-    "GM/GM-sessions/GM-Session 2.md",
     "Templates",
     "World/NSC/stonetop",
     "World/NSC/Marshedge",
@@ -239,7 +244,6 @@
     "References/Bilder/Pasted image 20260902182845.png",
     "References/Bilder/Pasted image 20260827134755.png",
     "References/Bilder/Pasted image 20260826115243.png",
-    "References/Bilder/Pasted image 20260826113934.png",
     "Untitled.canvas"
   ]
 }
