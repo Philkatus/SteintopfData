@@ -28,8 +28,17 @@ dg-publish: true
 	- diese Legierung scheint jedoch stabil zu sein und einige weitere eigenschaften zu haben die Meinir nicht zuordnen kann
 	- Meinir erzählt davon das sie jemanden in [[Gordin's delve]] kennt der sich mit sowas besser auskennt
 	- Sie einigen sich darauf das Problem sofort anzupacken und sich gegen Mittag auf den Weg zu machen
-- 
-
+- Verabschiedung von [[Ifur]]
+	- [[Ifur]] hat [[Rhys]] darauf hingewiesen, dass in dem Buch doch etwas in Normaler Tinte geschrieben ist
+	- [[Ifur]] hat ihn darum gebeten ihm was mitzubringen
+#### Reise
+- Sie brechen nach gordin's delve auf
+- An der Kreuzung begegnen sie einem Ustrine der aus dem süden kommt
+	- Er spricht davon ein Grab zu suchen
+	- als [[Arren]] an ihm vorbei gehen möchte greift der Ustrine nach ihm, [[Arren]] macht einen schritt rückwärts stolpert und wird vom ustrine am Arm aufgefangen
+	- Für einen kurzen Moment bleibt die Zeit für [[Arren]] stehen und er bekommt das Gefühl durch den Boden zu fallen dabei hört er einen Satz in einer ihm fremden Sprache
+	- Der Ustrine lässt ihn los dreht um und beginnt seinen Weg nach Norden fortzusetzen
+- Die Gruppe führt ihre Reise nach Westen fort
 ## Wichtige Infos
 
 

@@ -8,7 +8,7 @@ Eurwen, Gaenor, Garet, Gethin, Glyndir,
 Heledd, Hywel, Ifan, Iorwerth, Iwan, Leuca,  
 ~~Lewela~~, Linos, Mado, Maldwyn, Malon,  
 Mared, Marged, Martyn, Meirion, Menwen,  
-Mererid, Neirin, Nia, Ofydd, Olwyn,  
+Mererid, Neirin, ~~Nia~~, Ofydd, Olwyn,  
 Owain, Padrig, Parry, Pryce, Pryder, Rheinal,  
 Rhisiart, ~~Rhosyn~~, Rydderch, Sawyl, Siana,  
 Sioned, Talfryn, Tegid, Tiwlip, Tomos,  
@@ -26,7 +26,7 @@ Inspired by Greek, Hebrew, Persian, and
 Arabic: Agatte, Aref, Alix, Baraz, Canan, 
 Darya, Demetra, Elene, Elios, ~~Fotios~~, 
 Faruza, Golza, Iasos, Iona, Kyriakos, Marika,
-Maayan, Osher, Natasa, Nivola, Rinat, 
+Maayan, Osher, Natasa, ~~Nivola~~, Rinat, 
 Stamat, Thecla, ~~Zhaleh~~.
 
 #### Hillfolk

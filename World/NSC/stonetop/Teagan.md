@@ -18,6 +18,8 @@ Kräuterkunde, nähen, Heilkunst, Tiere ausnehmen
 
 
 #### Beziehungen:
-[[Ofydd]] Bruder
+[[Ofydd]] Ziehbruder
+[[Heledd]] Mutter
+[[Eluned]] Ziehschwester
 
 #### wichtige Ereignisse:

@@ -2,4 +2,8 @@
 - Hat sich bei einem Kampf im Wald mit dem [[Grauer Verfall]] angesteckt
 -  ist im Anschluss zum einzigen vermeindlichen Anhänger vom geschlossenen Tor geritten um ihm seine Aufzeichnungen zu geben
 - sie ist dabei dem Ruf [[der Speer]] gefolgt
-- um das ansteckungs Risiko klein zu halten hat sie die beiden zum gereinigten Ort [[Runengrab]] geführt um dort in der ewigen flamme ihre Notizen zu reinigenq
+- um das ansteckungs Risiko klein zu halten hat sie die beiden zum gereinigten Ort [[Runengrab]] geführt um dort in der ewigen flamme ihre Notizen zu reinigen
+- Sie war über 100 Jahre lang in einem Feenrealm gefangen aber für sie sind nur einige Stunden vergangen
+- Als sie wieder herauskam ist sie auf den Grauen Verfall gestoßen und wurde dabei von einem Monster angegriffen
+- In der Annahme jemanden ihr wissen anvertrauen zu müssen hat sie ihren Speer aufgesucht nur um ihn in Steintopf in den Händen eines Fremden zu finden
+- ohne eine andere Wahl hat sie ihr gesamtes vetrauen in den fremden [[Arren]] gelegt um den rest ihres Ordens vor der Gefahr im Wald zu warnen

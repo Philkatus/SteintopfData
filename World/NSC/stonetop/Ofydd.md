@@ -13,7 +13,7 @@ Oft schläfrig, schnell abgelenkt, gerne mal philosophisch,
 
 #### Beziehungen:
 [[Jorin]] ??
-[[Teagan]] älterer Bruder
+[[Teagan]] Zieh Bruder
 [[Rhosyn]] Mutter
 [[Heledd]] Ziehmutter
 
