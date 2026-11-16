@@ -1,0 +1,15 @@
+- [[seltsame fremde]] besucht das Dorf auf einem verottenden Pferd mit Halb runter hängenden Kiefer
+- [[Arren]] und [[Rhys]] folgen ihr zögerlich aber auf abstand gehalten raus in die Steppe zu einem Alten Hügelgrab
+- dort erlöst sie ihr Pferd von den qualen und schreitet in das Grab worauf hin sie feuer fängt und ein Buch in eine schale mit kaltem Feuer schmeist
+- das Buch bleibt unversehrt während die fremde vollkommen verbrennt
+- In der Höhle finden sie alt3 schriftzeichen an der Wand und einen zugeschüteten durchgang
+- Sie nehmen das Buch und eine Münze aus rotem Metall die ihnen die Fremde gegeben hat mit und kehren zurück nach Steintopf
+- Das Buch ist gefüllt mit magischen Runen die nur [[Rhys]] sieht aber nicht lesen kann
+- Auf dem Heimweg hinterlassen sie spuren in der Hoffnung den weg zum Grab wiederfinden zu können
+- in der folgenden Nacht begegnet [[Rhys]] bei der Nachtwache einem [[Nosgalau]] einer Flamme die ihn mit einer ihm seltsam bekannt vorkommenden Stimme versucht vom weg herunter zu locken
+- Er folgt der Stimme eine Weile aus Neugier kehrt dann aber um weil es ihm zu gefährlich wird
+- Nachdem sie zurück zuhause sind spricht [[Rhys]] am nächsten Tag mit der Schmiedin [[Meinir]] über die Münze die er von der Fremden erhalten hat und erfährt das sie vermutlich aus einer Orichalcum Legierung ist
+- gemeinsam entscheiden sie das sie nach Gordins delve reisen wollen weil [[Meinir]] dort jemanden kennt der ihnen mehr sagen kann
+- Außerdem möcht [[Arren]] diese chance nutzen um Gäste für [[Das grüne Fest]] zu besorgen und nimmt dafür ein Fass whisky mit
+- also brechen die drei gemeinsam gen 
+- 
