@@ -23,6 +23,7 @@ Ankunft in Gordins delve
 - sie scheinen die Reisegruppe zwar zu begutachten machen aber keine anstalten sich zu nähern
 - Nach einer langen Biegung kommt hinter einer Felswand das Dorf nein die Stadt in sicht
 - das erste was auffällt sind ist das Große plateau dass die Stadt in zwei teile teilt
+Treffen mit [[Fotios  Silberauge]]
 #### Orte
 #### Notizen  
 
