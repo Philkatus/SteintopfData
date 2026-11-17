@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GM/Hintergrundinfos/Das Buch.md",
+                "file": "World/NSC/stonetop/Meinir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Das Buch"
+              "title": "Meinir"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 200
   },
   "right": {
     "id": "863b07884767cdd1",
@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,6 +199,20 @@
   },
   "active": "4f2204a96a398e20",
   "lastOpenFiles": [
+    "World/NSC/stonetop/Nia.md",
+    "Sessions/Session 04 - Die Reise nach Gordin's delve.md",
+    "World/NSC/stonetop/Niwola.md",
+    "World/NSC/stonetop/Meinir.md",
+    "World/NSC/stonetop/Jorin.md",
+    "Sessions/Session 03 - Heimkehr und aufbruch.md",
+    "Sessions/Session 02 - Der Nosgalau auf dem Rückweg.md",
+    "Sessions/Session 01 - Die Reiterin (18.08.2026).md",
+    "Sessions/Zusammenfassung 01-04.md",
+    "GM/threats/homefront/Die alte Schmiedin.md",
+    "GM/Hintergrundinfos/Das Buch.md",
+    "World/NSC/stonetop/Dillan.md",
+    "World/NSC/Marshedge/Moirin.md",
+    "GM/GM-sessions/GM-Session 5.md",
     "GM/GM-sessions/GM-Session 4.md",
     "GM/Hintergrundinfos/Banditenanführer.md",
     "Pasted image 20260928135510.png",
@@ -211,8 +225,6 @@
     "GM/Hintergrundinfos/Zhaleh.md",
     "GM/GM-nsc/Unbenannt.md",
     "GM/Namensliste.md",
-    "GM/Hintergrundinfos/Das Buch.md",
-    "Sessions/Session 03 - Heimkehr und aufbruch.md",
     "Templates/Session.md",
     "World/Orte/Gordin's Delve.md",
     "World/Orte/Lygos.md",
@@ -220,18 +232,7 @@
     "Zahleh.md",
     "GM/GM-nsc",
     "World/NSC/stonetop/Rhosyn.md",
-    "World/NSC/stonetop/Heledd.md",
-    "World/NSC/stonetop/Ofydd.md",
-    "World/NSC/stonetop/Meinir.md",
-    "World/NSC/stonetop/Jorin.md",
-    "World/NSC/stonetop/Eluned.md",
-    "GM/GM-sessions/GM-Session 3.md",
-    "World/Orte/Das grüne Fest.md",
-    "World/NSC/Marshedge/Fotios  Silberauge.md",
     "References/Bilder/Pasted image 20260915174310.png",
-    "World/NSC/Marshedge/Caulan.md",
-    "GM/GM-sessions/Before session.md",
-    "Sessions/Session 02 - Der Nosgalau auf dem Rückweg.md",
     "Templates",
     "World/NSC/stonetop",
     "World/NSC/Marshedge",
