@@ -17,7 +17,7 @@ dg-home: true
 ## Helden:
 - [[Rhys]] Marian
 - [[Arren]] Lila
-- [[Selina]] Selina
+- [[Modd]] Selina
 
 ### Ressourcen
 - [[limoncello]] 

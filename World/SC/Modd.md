@@ -1,16 +1,13 @@
 ---
 dg-publish: true
 ---
-**Pronomen:**
-
+**Pronomen:** sie/ihr
 ## **Beruf:**
-
+Köchin
 ## **Charakter:**
-
 
 ## **Aussehen**:
 
 ## **Familie:**
-
 
 ## **wichtige Ereignisse:**
