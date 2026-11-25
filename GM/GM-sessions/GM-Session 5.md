@@ -56,5 +56,9 @@ Selina möchte Gordins delve background
 More conflict
 
 #### Auswertung
-
+Es ist sehr gut gelaufen ich haber erfolgreich mudd der gruppe vorgestellt und gordins delve eingeführt
+Ich sollte mehr und *genaue*r auf gerüche eingehen
+Ich sollte die gefahren der stadt aufzeigen. Taschendieb?
+Den Tausch einführen
+Mehr über den falschen Thor reden
 
